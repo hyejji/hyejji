@@ -26,6 +26,8 @@
 	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyejidaimma&layout=compact"><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyejidaimma&layout=compact"><br><br>
+</div>
 
